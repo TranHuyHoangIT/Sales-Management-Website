@@ -1,0 +1,17 @@
+@use'custom';
+
+// IMPORT THE COMPONENTS
+@use'components/buttons';
+@use'components/animation';
+@use'components/mixins';
+@use'components/typography';
+
+// IMPORT THE SECTIONS
+@use'sections/navbar';
+@use'sections/banhang';
+@use'sections/thongke';
+@use'sections/dangnhap';
+@use'sections/dangky';
+
+
+
