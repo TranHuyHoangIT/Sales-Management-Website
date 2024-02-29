@@ -1,3 +1,4 @@
+# Sales Management Website
 # 1. Purpose of the service
 ## User:
 + Stores, agents, supermarket owners and employees
